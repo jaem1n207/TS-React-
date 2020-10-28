@@ -1,0 +1,49 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["@typescript-eslint", "prettier", "react-hooks", "jsx-a11y"],
+  "extends": [
+    "airbnb",
+    "airbnb/hooks",
+    "react-app",
+    "prettier",
+    "prettier/react",
+    "prettier/@typescript-eslint",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 2020,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "rules": {
+    "jsx-a11y/label-has-associated-control": "off",
+    "jsx-a11y/anchor-is-valid": "off",
+    "no-console": "off",
+    "no-underscore-dangle": "off",
+    "react/forbid-prop-types": "off",
+    "react/jsx-filename-extension": "off",
+    "react/jsx-one-expression-per-line": "off",
+    "object-curly-newline": "off",
+    "linebreak-style": "off",
+    "no-param-reassign": "off",
+    "comma-dangle": "off",
+    "consistent-return": "off",
+    "react/jsx-wrap-multilines": "off",
+    "implicit-arrow-linebreak": "off",
+    "no-unused-vars": "off",
+    "max-len": "off",
+    "import/extensions": ["off"],
+    "import/no-unresolved": "off",
+    "no-shadow": "off",
+    "no-nested-ternary": "off",
+    "@typescript-eslint/explicit-function-return-type": "off",
+    "@typescript-eslint/no-empty-interface": "off",
+    "@typescript-eslint/interface-name-prefix": "off",
+    "no-empty-pattern": "off",
+    "import/no-extraneous-dependencies": ["error", { "devDependencies": true }]
+  }
+}
+
+/* husky + lint-staged 설정하기 */

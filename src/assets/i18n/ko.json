@@ -1,0 +1,283 @@
+{
+  "ImageSelector": {
+      "ImageSearch": "이미지 검색",
+      "SearchButton": "검색",
+      "Upload": "업로드",
+      "CancelSelection": "선택 취소"
+  },
+  "ProjectsPage": {
+      "Title": "프로젝트 목록",
+      "NewProject": "새 프로젝트",
+      "Project": {
+          "Name": "프로젝트 이름",
+          "NamePlaceholder": "태양단의 비밀",
+          "Description": "한줄 설명",
+          "DescriptionPlaceholder": "한반도를 지키는 아홉개의 국보를 찾아라!",
+          "BackgroundImage": "배경 이미지"
+      },
+      "AppSettings": "앱 설정",
+      "CreateProject": "프로젝트 생성"
+  },
+  "AppSettingsPage": {
+      "Developer": "개발자",
+      "Owner": "소유자",
+      "Author": "작가",
+      "Tester": "테스터",
+      "AddMember": "구성원 추가",
+      "Search": "검색",
+      "Level": "등급",
+      "LevelDescriptions": {
+          "Owner": "팀 구성 편집을 포함하여 이 앱을 수정할 수 있는 모든 권한을 가집니다",
+          "Developer": "시나리오 수정을 포함하여 개발 관련 내용에 접근이 가능합니다",
+          "Author": "시나리오 콘텐츠를 추가/수정 할 수 있습니다",
+          "Tester": "게임을 테스트할 수 있습니다",
+          "undefined": ""
+      },
+      "SearchPlaceholder": "사용자 검색"
+  },
+  "EditorPage": {
+      "Header": {
+          "Logout": "로그아웃",
+          "Account": "계정"
+      },
+      "Sidebar": {
+          "MoveToProject": "프로젝트 이동",
+          "CurrentProject": "현재 프로젝트",
+          "ExperienceEditor": "경험 편집기",
+          "Dashboard": "대시보드",
+          "Settings": "설정",
+          "Scenarios": "시나리오",
+          "Items": "아이템",
+          "Chatbots": "챗봇",
+          "Users": "사용자",
+          "NewScenario": "새 시나리오",
+          "Files": "파일",
+          "Comments": "댓글"
+      }
+  },
+  "FilesPage": {
+      "Title": "프로젝트 파일 관리",
+      "FileList": "파일 목록",
+      "Directory": "디렉토리",
+      "UpperDirectory": "상위 디렉토리",
+      "ModifyPopupTitle": "파일 정보 수정",
+      "MovePopupTitle": "파일 디렉토리 이동",
+      "UploadPopupTitle": "파일 업로드",
+      "CreatePopupTitle": "디렉토리 생성",
+      "File": {
+          "Description": "설명",
+          "VirtualDirectory": "가상 디렉토리",
+          "DirectoryName": "디렉토리 이름",
+          "Upload": "업로드 할 파일"
+      },
+      "Columns": {
+          "Name": "이름",
+          "Description": "설명",
+          "Actions": "동작"
+      },
+      "Buttons": {
+          "UploadFile": "파일 업로드",
+          "CreateDirectory": "디렉토리 생성",
+          "Modify": "수정",
+          "Move": "이동",
+          "Delete": "삭제"
+      }
+  },
+  "ItemsPage": {
+      "Title": "프로젝트 아이템 관리",
+      "CreatePopupTitle": "새 아이템",
+      "ModifyPopupTitle": "아이템 수정",
+      "ItemList": "아이템 목록",
+      "Item": {
+          "Name": "이름",
+          "Description": "설명",
+          "UseButtonLabel": "사용버튼 레이블",
+          "IsMultiOwnable": "다중 소유 가능 여부",
+          "MultiOwnable": "다중 소유 가능",
+          "NotMultiOwnable": "단일 소유",
+          "Icon": "아이콘",
+          "DetailImage": "상세 이미지"
+      },
+      "Columns": {
+          "Name": "이름",
+          "Effect": "사용 액션",
+          "Actions": "동작"
+      },
+      "Buttons": {
+          "CreateItem": "새 아이템",
+          "ModifyAction": "액션 수정",
+          "Modify": "수정",
+          "Delete": "삭제"
+      }
+  },
+  "CommentsPage": {
+      "Title": "댓글 관리"
+  },
+  "DashboardPage": {
+      "PlayStatus": "프로젝트 플레이 현황",
+      "ProjectName": "프로젝트 이름",
+      "ProjectId": "프로젝트 ID",
+      "TotalPlayUsers": "총 플레이 인원",
+      "TotalCompleteUsers": "총 완료 인원",
+      "DailyPlayUsers": "새 플레이 인원",
+      "DailyCompleteUsers": "새 완료 인원",
+      "UserUnit": "명",
+      "Realtime": "실시간",
+      "RealtimeNotice": "창을 닫거나 이동하면 초기화 됩니다"
+  },
+  "ProjectDetailPage": {
+      "BasicSettings": "프로젝트 기본 설정",
+      "ProjectName": "프로젝트 이름",
+      "ProjectDescription": "프로젝트 한 줄 설명",
+      "ProjectId": "프로젝트 ID",
+      "IsFixedTerm": "기간제 프로젝트",
+      "Unlimited": "제한 없음",
+      "FixedTerm": "기간제",
+      "StartExposure": "노출 시작일시",
+      "StopExposure": "노출 중단일시",
+      "StartDateUnset": "시작일시 미지정",
+      "StopDateUnset": "종료일시 미지정",
+      "ThemeSettings": "테마 설정",
+      "ThemeColor": "테마 색상",
+      "ProjectMainImage": "프로젝트 메인 이미지",
+      "ProjectThemeImage": "프로젝트 테마 이미지",
+      "Concept": "컨셉",
+      "StorySummary": "스토리",
+      "HowToPlay": "플레이 방법",
+      "Notice": "안내사항",
+      "Alert": "공지사항",
+      "PurchaseLink": "구매 링크",
+      "GameType": "타입",
+      "KitRequired": "키트 필요 여부",
+      "KitRequiredText": "키트 필요",
+      "KitNotRequiredText": "키트 필요 없음",
+      "Difficulty": "난이도",
+      "PlayArea": "플레이 지역",
+      "PlayableTime": "플레이 가능 시간",
+      "PlayTime": "소요 시간",
+      "RecommendedPlayers": "권장 플레이어 수",
+      "Etc": "기타",
+      "Themes": {
+          "Dark": "어두움",
+          "Light": "밝음"
+      },
+      "NoticeSettings": "공지 설정",
+      "PlaySettings": "플레이 설정",
+      "StorySettings": "스토리 설정",
+      "GameTypes": {
+          "Etc": "기타",
+          "Indoor": "실내형",
+          "Outdoor": "실외형",
+          "Mobile": "모바일형",
+          "Complex": "복합"
+      },
+      "Difficulties": {
+          "VeryEasy": "매우 쉬움",
+          "Easy": "쉬움",
+          "SlightlyEasy": "약간 쉬움",
+          "Normal": "보통",
+          "SlightlyHard": "약간 어려움",
+          "Hard": "어려움",
+          "VeryHard": "매우 어려움"
+      }
+  },
+  "ScenarioEditor": {
+      "Title": "시나리오 편집기",
+      "Settings": "시나리오 설정",
+      "BasicSettings": "시나리오 기본 설정",
+      "MissionsList": "미션 목록",
+      "ChangeOrder": "순서 변경",
+      "AddMission": "미션 추가",
+      "Name": "시나리오 이름",
+      "Subtitle": "시나리오 부제",
+      "NoticeSettings": "안내문구 설정",
+      "Story": "스토리",
+      "SimpleDescription": "간단 설명",
+      "Area": "플레이 지역",
+      "Duration": "소요 시간",
+      "MissionBasicSettings": "미션 기본 설정",
+      "Mission": {
+          "Name": "미션 이름",
+          "CoverImage": "미션 커버 이미지",
+          "ContentSettings": "콘텐츠 설정",
+          "Description": "미션 설명",
+          "ShortDescription": "한줄 요약"
+      }
+  },
+  "MissionEditor": {
+      "Title": "미션 설정",
+      "Settings": "미션 설정",
+      "QuestsList": "퀘스트 목록",
+      "EditMission": "미션 수정",
+      "NewQuest": "새 퀘스트",
+      "MissionBasicSettings": "미션 기본 설정",
+      "Name": "미션 이름",
+      "ContentSettings": "콘텐츠 설정"
+  },
+  "QuestEditor": {
+      "Title": "퀘스트 설정",
+      "Quest": {
+          "Name": "퀘스트 이름",
+          "ButtonLabel": "버튼 레이블",
+          "Description": "퀘스트 설명"
+      },
+      "NewQuest": "새 퀘스트"
+  },
+  "Common": {
+      "Description": "설명",
+      "ShortDescription": "한줄 설명",
+      "ExposureSettings": "노출 설정",
+      "Opened": "공개",
+      "Closed": "미공개",
+      "Locked": "잠금",
+      "Unlocked": "미잠금",
+      "Save": "저장",
+      "ChangeCoverImage": "커버 이미지 변경",
+      "Override": "전체 강제 적용",
+      "Visibility": "기본 표시 여부",
+      "LockStatus": "기본 잠금 여부",
+      "Cancel": "취소",
+      "Manage": "관리",
+      "Modify": "수정",
+      "Delete": "삭제",
+      "Deactivate": "비활성화",
+      "Reactivate": "재활성화",
+      "GoBack": "돌아가기",
+      "Redeem": {
+          "Title": "초대 코드",
+          "CreateButton": "초대코드 생성",
+          "ExpiryDateUnset": "만료 일시 없음",
+          "CountUnset": "개수 제한 없음",
+          "ModifyRedeemCode": "초대코드 수정",
+          "BasicSettings": "기본 설정",
+          "Code": "코드",
+          "NotePlaceholder": "예) 테스트 배포용",
+          "UsageLimitSettings": "사용 제한 설정",
+          "ExpiryDate": "만료 일시 설정",
+          "UsageCount": "개수 제한 설정",
+          "CreationDate": "생성 일시",
+          "UsedCount": "사용개수"
+      }
+  },
+  "NewAppPage": {
+      "Login": "로그인",
+      "Logout": "로그아웃",
+      "CreateApp": "생성",
+      "NewApp": "새 어플리케이션",
+      "Name": "어플리케이션 이름"
+  },
+  "ChatbotsPage": {
+      "Title": "챗봇 관리",
+      "ModifyPopupTitle": "챗봇 수정",
+      "CreatePopupTitle": "챗봇 생성",
+      "ChatbotList": "챗봇 목록",
+      "Chatbot": {
+          "Name": "이름",
+          "StatusMessage": "상태메시지",
+          "Picture": "프로필 사진"
+      },
+      "Buttons": {
+          "CreateChatbot": "챗봇 생성"
+      }
+  }
+}

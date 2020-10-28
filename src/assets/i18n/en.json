@@ -1,0 +1,270 @@
+{
+  "ImageSelector": {
+      "ImageSearch": "Search Images",
+      "SearchButton": "Search",
+      "Upload": "Upload",
+      "CancelSelection": "Cancel Selection"
+  },
+  "ProjectsPage": {
+      "Title": "Projects",
+      "NewProject": "New Project",
+      "Project": {
+          "Name": "Project Name",
+          "NamePlaceholder": "Guardians of the sun",
+          "Description": "One Line Description",
+          "DescriptionPlaceholder": "Find nine national treasures that protect the Korean Peninsula",
+          "BackgroundImage": "Background Image"
+      },
+      "AppSettings": "App Settings",
+      "CreateProject": "Create Project"
+  },
+  "AppSettingsPage": {
+      "Developer": "Developer",
+      "Owner": "Owner",
+      "Author": "Author",
+      "Tester": "Tester",
+      "AddMember": "Add Member",
+      "Search": "Search",
+      "Level": "Level",
+      "LevelDescriptions": {
+          "Owner": "All authority include team management",
+          "Developer": "Access developmental features and includes authority for authors",
+          "Author": "Can edit scenarios",
+          "Tester": "Only test games",
+          "undefined": ""
+      },
+      "SearchPlaceholder": "Search User"
+  },
+  "EditorPage": {
+      "Header": {
+          "Logout": "Logout",
+          "Account": "Account"
+      },
+      "Sidebar": {
+          "MoveToProject": "Move to Project",
+          "CurrentProject": "Current Project",
+          "ExperienceEditor": "Experience Editor",
+          "Dashboard": "Dashboard",
+          "Settings": "Settings",
+          "Scenarios": "Scenarios",
+          "Items": "Items",
+          "Chatbots": "Chatbots",
+          "Users": "Users",
+          "NewScenario": "New Scenario",
+          "Files": "Files",
+          "Comments": "Comments"
+      }
+  },
+  "FilesPage": {
+      "Title": "Manage Project Files",
+      "FileList": "File List",
+      "Directory": "Directory",
+      "UpperDirectory": "Upper Directory",
+      "ModifyPopupTitle": "Edit File Information",
+      "MovePopupTitle": "Move Directory",
+      "UploadPopupTitle": "Upload File",
+      "CreatePopupTitle": "Create Directory",
+      "File": {
+          "Description": "Description",
+          "VirtualDirectory": "Virtual Directory",
+          "DirectoryName": "Directory Name",
+          "Upload": "File to Upload"
+      },
+      "Columns": {
+          "Name": "Name",
+          "Description": "Description",
+          "Actions": "Actions"
+      },
+      "Buttons": {
+          "UploadFile": "Upload File",
+          "CreateDirectory": "Create Directory",
+          "Modify": "Edit",
+          "Move": "Move",
+          "Delete": "Delete"
+      }
+  },
+  "ItemsPage": {
+      "Title": "Manage Project Items",
+      "CreatePopupTitle": "New Item",
+      "ModifyPopupTitle": "Modify Item",
+      "ItemList": "Items",
+      "Item": {
+          "Name": "Name",
+          "Description": "Description",
+          "UseButtonLabel": "Use button label",
+          "IsMultiOwnable": "Multiple own availability",
+          "MultiOwnable": "Can own multiple",
+          "NotMultiOwnable": "Single only",
+          "Icon": "Icon",
+          "DetailImage": "Detail image"
+      },
+      "Columns": {
+          "Name": "Name",
+          "Effect": "Use Action",
+          "Actions": "Action"
+      },
+      "Buttons": {
+          "CreateItem": "New Item",
+          "ModifyAction": "Modify Action",
+          "Modify": "Modify",
+          "Delete": "Delete"
+      }
+  },
+  "CommentsPage": {
+      "Title": "Manage Comments"
+  },
+  "DashboardPage": {
+      "PlayStatus": "Project Play Status",
+      "ProjectName": "Project Name",
+      "ProjectId": "Project ID",
+      "TotalPlayUsers": "Total Play Users",
+      "TotalCompleteUsers": "Total Complete Users",
+      "DailyPlayUsers": "Daily Play Users",
+      "DailyCompleteUsers": "Daily Complete Users",
+      "UserUnit": "Users",
+      "Realtime": "Real-Time",
+      "RealtimeNotice": "This data is volatile"
+  },
+  "ProjectDetailPage": {
+      "BasicSettings": "Project Basic Settings",
+      "ProjectName": "Project Name",
+      "ProjectDescription": "Inline Description",
+      "ProjectId": "Project ID",
+      "IsFixedTerm": "Fixed Term Project",
+      "Unlimited": "Unlimited",
+      "FixedTerm": "Fixed Term",
+      "StartExposure": "Start Exposure",
+      "StopExposure": "Stop Exposure",
+      "StartDateUnsettled": "Start Date Unsettled",
+      "StopDateUnsettled": "Stop Date Unsettled",
+      "ThemeSettings": "Theme Settings",
+      "ThemeColor": "Theme Color",
+      "ProjectMainImage": "Project Main Image",
+      "ProjectThemeImage": "Project Theme Image",
+      "Concept": "Concept",
+      "StorySummary": "Story",
+      "HowToPlay": "Play instructions",
+      "Notice": "Notice",
+      "Alert": "Alert",
+      "PurchaseLink": "Purchase Link",
+      "GameType": "Game Type",
+      "KitRequired": "Kit Required",
+      "KitRequiredText": "Required",
+      "KitNotRequiredText": "Non-Required",
+      "Difficulty": "Difficulty",
+      "PlayArea": "Play Area",
+      "PlayableTime": "Playable Time",
+      "PlayTime": "Duration",
+      "RecommendedPlayers": "Recommended Player Number",
+      "Etc": "Etc",
+      "Themes": {
+          "Dark": "Dark",
+          "Light": "Light"
+      },
+      "NoticeSettings": "Notice Settings",
+      "PlaySettings": "Play Settings",
+      "StorySettings": "Story Settings",
+      "GameTypes": {
+          "Etc": "Etc",
+          "Indoor": "Indoor",
+          "Outdoor": "Outdoor",
+          "Mobile": "Mobile",
+          "Complex": "Complex"
+      },
+      "Difficulties": {
+          "VeryEasy": "Very Easy",
+          "Easy": "Easy",
+          "SlightlyEasy": "Slightly Easy",
+          "Normal": "Normal",
+          "SlightlyHard": "Slightly Hard",
+          "Hard": "Hard",
+          "VeryHard": "Very Hard"
+      }
+  },
+  "ScenarioEditor": {
+      "Title": "Scenario Editor",
+      "Settings": "Scenario Settings",
+      "BasicSettings": "Scenario Basic Settings",
+      "MissionsList": "Missions List",
+      "ChangeOrder": "Change Order",
+      "AddMission": "Add Mission",
+      "Name": "Scenario Name",
+      "Subtitle": "Scenario Subtitle",
+      "NoticeSettings": "Notice Settings",
+      "Story": "Story",
+      "SimpleDescription": "Simple Description",
+      "Area": "Play Area",
+      "Duration": "Duration",
+      "Override": "Override User Context",
+      "MissionBasicSettings": "Mission Basic Settings",
+      "Mission": {
+          "Name": "Mission Name",
+          "CoverImage": "Mission Cover Image",
+          "ContentSettings": "Content Settings",
+          "Description": "Description",
+          "ShortDescription": "Summary"
+      }
+  },
+  "MissionEditor": {
+      "Title": "Mission Settings",
+      "Settings": "Edit Mission",
+      "QuestsList": "Quests List",
+      "EditMission": "Edit Mission",
+      "NewQuest": "New Quest",
+      "MissionBasicSettings": "Mission Basic Settings",
+      "Name": "Mission Name",
+      "ContentSettings": "Content Settings"
+  },
+  "QuestEditor": {
+      "Title": "Quest Settings",
+      "Quest": {
+          "Name": "Quest Name",
+          "ButtonLabel": "Button Label",
+          "Description": "Description"
+      },
+      "NewQuest": "New Quest"
+  },
+  "Common": {
+      "Description": "Description",
+      "ShortDescription": "Short Description",
+      "ExposureSettings": "Exposure Settings",
+      "Opened": "Opened",
+      "Closed": "Closed",
+      "Locked": "Locked",
+      "Unlocked": "Unlocked",
+      "Save": "Save",
+      "ChangeCoverImage": "Change Cover Image",
+      "Override": "Override User Context",
+      "Visibility": "Visibility",
+      "LockStatus": "Lock Status",
+      "Cancel": "Cancel",
+      "Manage": "Manage",
+      "Modify": "Modify",
+      "Delete": "Delete",
+      "Deactivate": "Deactivate",
+      "Reactivate": "Reactivate",
+      "GoBack": "Go Back",
+      "Redeem": {
+          "Title": "Invitation Code",
+          "CreateButton": "Create Code",
+          "ExpiryDateUnset": "Expiry Date Unset",
+          "CountUnset": "Unlimited Usage",
+          "ModifyRedeemCode": "Modify Settings",
+          "BasicSettings": "Basic Settings",
+          "Code": "Code",
+          "NotePlaceholder": "ex) For test distribution",
+          "UsageLimitSettings": "Usage Limit Settings",
+          "ExpiryDate": "Expiry Date",
+          "UsageCount": "Usage Count Limit",
+          "CreationDate": "Creation Date",
+          "UsedCount": "Used Count"
+      }
+  },
+  "NewAppPage": {
+      "Login": "Login",
+      "Logout": "Logout",
+      "CreateApp": "Create App",
+      "NewApp": "New Application",
+      "Name": "Application Name"
+  }
+}
